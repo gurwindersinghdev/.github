@@ -5,7 +5,7 @@ https://github.com/dark0rder/wise-lending-codebase-code4rena/blob/gurvinder/cont
 
 https://github.com/dark0rder/wise-lending-codebase-code4rena/blob/gurvinder/contracts/WiseLendingDeclaration.sol#L299-L302
 
-(--Doubts--not sure--)
+## (--Doubts--not sure--)
 
 Function _getCurrentSharePriceMax might return inaacurrate APR , which might lead to other bugs, inaccuracy in APY AND APR for borrowers and lenders.
 
@@ -21,5 +21,5 @@ Function _getCurrentSharePriceMax might return inaacurrate APR , which might lea
 
 
 
-All about Leap Years:
+## All about Leap Years:
 A leap year is a year with 366 days instead of the usual 365. This additional day is added to February, making it 29 days long instead of 28. Leap years occur approximately every four years
