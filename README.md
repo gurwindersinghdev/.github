@@ -14,6 +14,10 @@
 ## Comparing Wise vs WiSER Tokens
 ![44](https://github.com/gurwindersinghdev/.github/assets/112465044/73634a21-6ada-4a11-93a4-4b4ca5e9383c)
 
+## Wise-Lending
+![Wise-1](https://github.com/gurwindersinghdev/.github/assets/112465044/3c584cae-71fb-4efb-8dc1-c36e8dd56481)
+
+
 
 
 ## Audits
