@@ -17,6 +17,10 @@
 ## Wise-Lending
 ![Wise-1](https://github.com/gurwindersinghdev/.github/assets/112465044/3c584cae-71fb-4efb-8dc1-c36e8dd56481)
 
+## Power Farms
+![wise-8](https://github.com/gurwindersinghdev/.github/assets/112465044/1bc967fe-7532-433a-8fe3-e8753e8946ee)
+
+
 
 
 
